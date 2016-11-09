@@ -1,0 +1,61 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	color: #000;
+	line-height: 1.4px; 
+}
+
+.wrapper {
+	background-color:#FFF;
+	color:black;
+	padding: 50px;
+	margin: 30px;
+	border-radius:3px;
+
+	position: relative;
+
+}
+
+.content {
+	background-color: #FFE9DA;
+	color:black;
+	padding: 50px;
+	margin: 50px;
+	border-radius:3px;
+	position: fixed;
+
+	position: absolute;
+	top: 50px;
+	right: 50px;
+	width: 400px;
+
+}
+
+.title {
+	font-family: 'Prociono', serif;
+	font-size: 48px;
+	text-align: left;
+	line-height: 1.4;
+}
+
+p {
+	line-height: 1.4;
+	text-align: justify;
+	
+}
+
+img {
+	border-radius: 300px;
+	width: 530px;
+	top: 300px;
+	margin-top: 95px;
+}
+
+.img--logo, a {
+	text-decoration: none;
+	width: 40px;
+	margin: 5px;
+	border-radius: 200px;
+
+}
+
